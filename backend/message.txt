@@ -1,0 +1,240 @@
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_290507272508145665_1660848831994.png in temp!","timestamp":"2022-08-19T00:00:00.054Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_294759917389086720_1660826028494.png in temp!","timestamp":"2022-08-19T00:00:00.055Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-19T04:30:54.951Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"985968767702011954","timestamp":"2022-08-19T04:30:54.963Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-19T04:30:55.938Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-19T04:30:55.950Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-19T04:30:55.964Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_138431969418543104_1660883456223.png","timestamp":"2022-08-19T04:30:56.224Z"}
+{"command":"me","discordId":"138431969418543104","file":"index.js","level":"info","message":"[Wonder] used [/me] in [Hangout]. Bot response time: -814ms","responseTime":-814,"serverId":"985968767702011954","timestamp":"2022-08-19T04:30:56.787Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-19T10:04:47.550Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"704402793452011700","timestamp":"2022-08-19T10:04:47.565Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-19T10:04:48.669Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-19T10:04:48.681Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-19T10:04:48.693Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_294759917389086720_1660903488966.png","timestamp":"2022-08-19T10:04:48.967Z"}
+{"command":"me","discordId":"294759917389086720","file":"index.js","level":"info","message":"[jancuk] used [/me] in [Kantor]. Bot response time: -936ms","responseTime":-936,"serverId":"704402793452011700","timestamp":"2022-08-19T10:04:49.311Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_138431969418543104_1660883456223.png in temp!","timestamp":"2022-08-19T12:00:00.125Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_294759917389086720_1660903488966.png in temp!","timestamp":"2022-08-19T12:00:00.125Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-19T15:45:50.478Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"704402793452011700","timestamp":"2022-08-19T15:45:50.490Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-19T15:45:51.588Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-19T15:45:51.602Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-19T15:45:51.613Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_294759917389086720_1660923951868.png","timestamp":"2022-08-19T15:45:51.868Z"}
+{"command":"me","discordId":"294759917389086720","file":"index.js","level":"info","message":"[jancuk] used [/me] in [Kantor]. Bot response time: -768ms","responseTime":-768,"serverId":"704402793452011700","timestamp":"2022-08-19T15:45:52.203Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-19T16:19:44.848Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"985968767702011954","timestamp":"2022-08-19T16:19:44.862Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-19T16:19:45.841Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-19T16:19:45.853Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-19T16:19:45.866Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_138431969418543104_1660925986186.png","timestamp":"2022-08-19T16:19:46.187Z"}
+{"command":"me","discordId":"138431969418543104","file":"index.js","level":"info","message":"[Wonder] used [/me] in [Hangout]. Bot response time: -549ms","responseTime":-549,"serverId":"985968767702011954","timestamp":"2022-08-19T16:19:46.486Z"}
+{"file":"scheduler.js","level":"info","message":"â–¬â–¬Î¹â•â•â•â•â•â•â•ïº¤ History updating started -â•â•â•â•â•â•â•Î¹â–¬â–¬","timestamp":"2022-08-19T23:55:00.053Z"}
+{"file":"database.js","level":"info","message":"Fetched all users from the DB!","timestamp":"2022-08-19T23:55:00.071Z"}
+{"discordId":"185952094535155712","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:01.689Z"}
+{"discordId":"202065104684974080","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:02.681Z"}
+{"discordId":"184742349228736513","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:03.679Z"}
+{"discordId":"240542255767748608","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:04.756Z"}
+{"discordId":"287600461089996800","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:05.934Z"}
+{"discordId":"500318162580144150","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:06.827Z"}
+{"discordId":"296300885024309249","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:07.760Z"}
+{"discordId":"548644562986336260","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:08.649Z"}
+{"discordId":"302709702096322561","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:09.580Z"}
+{"discordId":"403076936269824000","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:10.578Z"}
+{"discordId":"854709898536157195","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:11.506Z"}
+{"discordId":"177106950511788033","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:12.393Z"}
+{"discordId":"960853648856973372","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:13.356Z"}
+{"discordId":"335649747706707968","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:14.359Z"}
+{"discordId":"461194115539927046","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:15.256Z"}
+{"discordId":"363528839059603466","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:16.313Z"}
+{"discordId":"899647495863402527","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:17.224Z"}
+{"discordId":"154179615651397632","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:18.137Z"}
+{"discordId":"468624944964829185","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:19.172Z"}
+{"discordId":"802960835672014868","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:20.105Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:21.127Z"}
+{"discordId":"985768740467662858","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:22.225Z"}
+{"discordId":"735706271344230401","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:23.172Z"}
+{"discordId":"414808212122894336","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:24.217Z"}
+{"discordId":"262679185695178752","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:25.161Z"}
+{"discordId":"298651356082995202","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:26.113Z"}
+{"discordId":"375346925962002435","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:27.069Z"}
+{"discordId":"546637714494062595","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:27.970Z"}
+{"discordId":"680653270926360694","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:28.976Z"}
+{"discordId":"546532041156722698","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:29.968Z"}
+{"discordId":"305132383085002752","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:30.881Z"}
+{"discordId":"98190716475305984","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:31.849Z"}
+{"discordId":"283406776035049472","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:32.847Z"}
+{"discordId":"838379954281775124","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:33.787Z"}
+{"discordId":"355013501355425793","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:34.755Z"}
+{"discordId":"218411824754720768","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:35.910Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:37.095Z"}
+{"discordId":"958089530068570162","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:38.098Z"}
+{"discordId":"202945239722229762","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:39.101Z"}
+{"discordId":"920847865314693192","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:40.043Z"}
+{"discordId":"210840194516123648","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:41.071Z"}
+{"discordId":"470005379611361300","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:41.977Z"}
+{"discordId":"878436084718137434","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:42.971Z"}
+{"discordId":"541839268016947220","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:43.915Z"}
+{"discordId":"884806298724630550","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:44.846Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:45.744Z"}
+{"discordId":"537007528156987410","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:46.828Z"}
+{"discordId":"239826515187990528","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:47.922Z"}
+{"discordId":"396298854053445643","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:48.936Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:49.952Z"}
+{"discordId":"224163123983155200","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:50.845Z"}
+{"discordId":"184109316297457664","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:51.990Z"}
+{"discordId":"435718202480132117","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:52.948Z"}
+{"discordId":"286260813138886656","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:53.969Z"}
+{"discordId":"900474567812870245","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:54.892Z"}
+{"discordId":"878023408972075059","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:55.874Z"}
+{"discordId":"610198469268996147","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:56.789Z"}
+{"discordId":"586863579312160779","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:57.696Z"}
+{"discordId":"487287818331095040","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:58.776Z"}
+{"discordId":"849286139482341397","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:55:59.751Z"}
+{"discordId":"124749640510865411","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:00.700Z"}
+{"discordId":"505494308116234247","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:01.748Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:02.659Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:03.651Z"}
+{"discordId":"164967564764512257","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:04.605Z"}
+{"discordId":"507275164732358676","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:05.518Z"}
+{"discordId":"605584415875137539","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:06.418Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:07.336Z"}
+{"discordId":"201880340363476992","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:08.331Z"}
+{"discordId":"138030968056446976","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:09.281Z"}
+{"discordId":"353593001215262731","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:10.254Z"}
+{"discordId":"366696117175320576","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:11.155Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-19T23:56:12.054Z"}
+{"file":"scheduler.js","level":"info","message":"â–¬â–¬Î¹â•â•â•â•â•â•â•ïº¤ History updating stopped -â•â•â•â•â•â•â•Î¹â–¬â–¬","timestamp":"2022-08-19T23:56:12.057Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_138431969418543104_1660925986186.png in temp!","timestamp":"2022-08-20T00:00:00.048Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_294759917389086720_1660923951868.png in temp!","timestamp":"2022-08-20T00:00:00.049Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: distribution_1660965461548.png","timestamp":"2022-08-20T03:17:41.549Z"}
+{"command":"distribution","discordId":"138431969418543104","file":"index.js","level":"info","message":"[Wonder] used [/distribution] in [Hangout]. Bot response time: -710ms","responseTime":-710,"serverId":"985968767702011954","timestamp":"2022-08-20T03:17:41.829Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-20T03:21:42.284Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"985968767702011954","timestamp":"2022-08-20T03:21:42.297Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-20T03:21:43.263Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-20T03:21:43.278Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-20T03:21:43.291Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_373187737618087949_1660965703584.png","timestamp":"2022-08-20T03:21:43.585Z"}
+{"command":"me","discordId":"373187737618087949","file":"index.js","level":"info","message":"[SirNukem] used [/me] in [Hangout]. Bot response time: -598ms","responseTime":-598,"serverId":"985968767702011954","timestamp":"2022-08-20T03:21:43.923Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-20T04:06:09.699Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"985968767702011954","timestamp":"2022-08-20T04:06:09.713Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-20T04:06:10.794Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-20T04:06:10.808Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-20T04:06:10.820Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_668856037268389906_1660968371075.png","timestamp":"2022-08-20T04:06:11.076Z"}
+{"command":"me","discordId":"668856037268389906","file":"index.js","level":"info","message":"[KidKxrry] used [/me] in [Hangout]. Bot response time: -639ms","responseTime":-639,"serverId":"985968767702011954","timestamp":"2022-08-20T04:06:11.473Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-20T04:07:19.084Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"985968767702011954","timestamp":"2022-08-20T04:07:19.097Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-20T04:07:20.047Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-20T04:07:20.060Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-20T04:07:20.073Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_138431969418543104_1660968440363.png","timestamp":"2022-08-20T04:07:20.364Z"}
+{"command":"me","discordId":"138431969418543104","file":"index.js","level":"info","message":"[Wonder] used [/me] in [Hangout]. Bot response time: -601ms","responseTime":-601,"serverId":"985968767702011954","timestamp":"2022-08-20T04:07:20.985Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: distribution_1660965461548.png in temp!","timestamp":"2022-08-20T12:00:00.063Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_138431969418543104_1660968440363.png in temp!","timestamp":"2022-08-20T12:00:00.065Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_373187737618087949_1660965703584.png in temp!","timestamp":"2022-08-20T12:00:00.067Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_668856037268389906_1660968371075.png in temp!","timestamp":"2022-08-20T12:00:00.069Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-20T12:12:51.696Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"684035492446339073","timestamp":"2022-08-20T12:12:51.710Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-20T12:12:52.750Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-20T12:12:52.762Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-20T12:12:52.774Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_438081715576242176_1660997573023.png","timestamp":"2022-08-20T12:12:53.024Z"}
+{"command":"me","discordId":"438081715576242176","file":"index.js","level":"info","message":"[muumif] used [/me] in [Optik India]. Bot response time: -1018ms","responseTime":-1018,"serverId":"684035492446339073","timestamp":"2022-08-20T12:12:53.336Z"}
+{"discordId":"438081715576242176","file":"map.js","level":"info","message":"Made temp file: map_1660998296259.png","serverId":"684035492446339073","timestamp":"2022-08-20T12:24:56.343Z"}
+{"command":"map","discordId":"438081715576242176","file":"index.js","level":"info","message":"[muumif] used [/map] in [Optik India]. Bot response time: -650ms","responseTime":-650,"serverId":"684035492446339073","timestamp":"2022-08-20T12:24:56.973Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-20T19:00:39.361Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"970761882585690113","timestamp":"2022-08-20T19:00:39.376Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-20T19:00:40.516Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-20T19:00:40.530Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-20T19:00:40.543Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_290507272508145665_1661022040791.png","timestamp":"2022-08-20T19:00:40.792Z"}
+{"command":"me","discordId":"290507272508145665","file":"index.js","level":"info","message":"[Æ9â€¾oÊžá´‰É¯Ç ðŸ‘‘] used [/me] in [WiFi]. Bot response time: -733ms","responseTime":-733,"serverId":"970761882585690113","timestamp":"2022-08-20T19:00:41.210Z"}
+{"file":"scheduler.js","level":"info","message":"â–¬â–¬Î¹â•â•â•â•â•â•â•ïº¤ History updating started -â•â•â•â•â•â•â•Î¹â–¬â–¬","timestamp":"2022-08-20T23:55:00.039Z"}
+{"file":"database.js","level":"info","message":"Fetched all users from the DB!","timestamp":"2022-08-20T23:55:00.056Z"}
+{"discordId":"185952094535155712","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:01.068Z"}
+{"discordId":"202065104684974080","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:02.384Z"}
+{"discordId":"184742349228736513","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:03.378Z"}
+{"discordId":"240542255767748608","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:04.405Z"}
+{"discordId":"287600461089996800","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:05.335Z"}
+{"discordId":"500318162580144150","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:06.247Z"}
+{"discordId":"296300885024309249","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:07.166Z"}
+{"discordId":"548644562986336260","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:08.106Z"}
+{"discordId":"302709702096322561","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:09.038Z"}
+{"discordId":"403076936269824000","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:10.042Z"}
+{"discordId":"854709898536157195","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:10.974Z"}
+{"discordId":"177106950511788033","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:11.922Z"}
+{"discordId":"960853648856973372","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:12.885Z"}
+{"discordId":"335649747706707968","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:13.868Z"}
+{"discordId":"461194115539927046","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:14.900Z"}
+{"discordId":"363528839059603466","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:15.933Z"}
+{"discordId":"899647495863402527","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:16.906Z"}
+{"discordId":"154179615651397632","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:17.879Z"}
+{"discordId":"468624944964829185","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:18.805Z"}
+{"discordId":"802960835672014868","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:19.817Z"}
+{"discordId":"668856037268389906","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:20.888Z"}
+{"discordId":"985768740467662858","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:21.803Z"}
+{"discordId":"735706271344230401","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:22.732Z"}
+{"discordId":"414808212122894336","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:23.731Z"}
+{"discordId":"262679185695178752","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:24.912Z"}
+{"discordId":"298651356082995202","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:25.878Z"}
+{"discordId":"375346925962002435","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:26.865Z"}
+{"discordId":"546637714494062595","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:27.754Z"}
+{"discordId":"680653270926360694","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:28.724Z"}
+{"discordId":"546532041156722698","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:29.739Z"}
+{"discordId":"305132383085002752","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:30.674Z"}
+{"discordId":"98190716475305984","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:31.682Z"}
+{"discordId":"283406776035049472","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:32.623Z"}
+{"discordId":"838379954281775124","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:33.552Z"}
+{"discordId":"355013501355425793","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:34.511Z"}
+{"discordId":"218411824754720768","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:35.560Z"}
+{"discordId":"373187737618087949","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:36.468Z"}
+{"discordId":"958089530068570162","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:37.486Z"}
+{"discordId":"202945239722229762","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:38.436Z"}
+{"discordId":"920847865314693192","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:39.418Z"}
+{"discordId":"210840194516123648","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:40.439Z"}
+{"discordId":"470005379611361300","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:41.335Z"}
+{"discordId":"878436084718137434","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:42.356Z"}
+{"discordId":"541839268016947220","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:43.225Z"}
+{"discordId":"884806298724630550","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:44.207Z"}
+{"discordId":"138431969418543104","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:45.119Z"}
+{"discordId":"537007528156987410","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:46.132Z"}
+{"discordId":"239826515187990528","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:47.165Z"}
+{"discordId":"396298854053445643","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:48.225Z"}
+{"discordId":"290507272508145665","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:49.250Z"}
+{"discordId":"224163123983155200","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:50.168Z"}
+{"discordId":"184109316297457664","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:51.159Z"}
+{"discordId":"435718202480132117","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:52.138Z"}
+{"discordId":"286260813138886656","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:53.172Z"}
+{"discordId":"900474567812870245","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:54.130Z"}
+{"discordId":"878023408972075059","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:55.117Z"}
+{"discordId":"610198469268996147","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:56.011Z"}
+{"discordId":"586863579312160779","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:56.986Z"}
+{"discordId":"487287818331095040","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:58.087Z"}
+{"discordId":"849286139482341397","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:59.016Z"}
+{"discordId":"124749640510865411","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:55:59.950Z"}
+{"discordId":"505494308116234247","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:00.962Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:01.884Z"}
+{"discordId":"294759917389086720","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:02.868Z"}
+{"discordId":"164967564764512257","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:03.851Z"}
+{"discordId":"507275164732358676","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:04.763Z"}
+{"discordId":"605584415875137539","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:05.648Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:06.635Z"}
+{"discordId":"201880340363476992","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:07.666Z"}
+{"discordId":"138030968056446976","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:08.572Z"}
+{"discordId":"353593001215262731","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:09.556Z"}
+{"discordId":"366696117175320576","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:10.678Z"}
+{"discordId":"438081715576242176","file":"database.js","level":"info","message":"Added history data to the DB!","timestamp":"2022-08-20T23:56:11.685Z"}
+{"file":"scheduler.js","level":"info","message":"â–¬â–¬Î¹â•â•â•â•â•â•â•ïº¤ History updating stopped -â•â•â•â•â•â•â•Î¹â–¬â–¬","timestamp":"2022-08-20T23:56:11.689Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_290507272508145665_1661022040791.png in temp!","timestamp":"2022-08-21T00:00:00.021Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_438081715576242176_1660997573023.png in temp!","timestamp":"2022-08-21T00:00:00.022Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: map_1660998296259.jpeg in temp!","timestamp":"2022-08-21T00:00:00.022Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Fetched a user from the DB!","timestamp":"2022-08-21T01:42:21.066Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Fetched a users server from the DB!","serverId":"1006778221523636286","timestamp":"2022-08-21T01:42:21.077Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Fetched a users history from the DB!","timestamp":"2022-08-21T01:42:22.517Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Updated a users RP in the DB!","timestamp":"2022-08-21T01:42:22.530Z"}
+{"discordId":"430190480509239308","file":"database.js","level":"info","message":"Updated a users AP in the DB!","timestamp":"2022-08-21T01:42:22.542Z"}
+{"file":"charts.js","level":"info","message":"Made temp file: history_430190480509239308_1661046142834.png","timestamp":"2022-08-21T01:42:22.835Z"}
+{"command":"me","discordId":"430190480509239308","file":"index.js","level":"info","message":"[ItsMikeyy] used [/me] in [Apex [coZ]]. Bot response time: -690ms","responseTime":-690,"serverId":"1006778221523636286","timestamp":"2022-08-21T01:42:23.120Z"}
+{"file":"scheduler.js","level":"info","message":"Deleted file: history_430190480509239308_1661046142834.png in temp!","timestamp":"2022-08-21T12:00:00.024Z"}
