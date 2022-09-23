@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-const { getLogs } = require('./logfile');
+const { getLogs } = require('./components/logs');
 const express = require('express');
 const app = express();
 
