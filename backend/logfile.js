@@ -1,16 +1,28 @@
-const fs = require('fs');
+const { MongoClient } = require("mongodb");
+require('dotenv').config();
 
-const data = fs.readFileSync('message.txt', 'utf-8')
+const DBClient = new MongoClient(process.env.MONGO_CONNECTION);
 
-const logsArr = []
+const logsCollection = DBClient.db("EdgyLoba").collection("logs");
 
-//turns data into an array of objects
-let logs = data.toString().replace(/\r\n/g, "\n").split("\n");
-logs = logs.map(log => {
-    if (log == "") {
-        return;
+async function getLogs(limit, filter) {
+    try {
+        await DBClient.connect();
+
+        let logs;
+
+        if (filter != undefined) {
+            logs = await logsCollection.find(filter).limit(limit).toArray();
+        } else {
+            logs = await logsCollection.find({}).limit(limit).toArray();
+        }
+        
+        return logs;
+    } catch (error) {
+        console.log(error);
+    } finally {
+        await DBClient.close();
     }
-    logsArr.push(JSON.parse(log))
-});
+}
 
-module.exports = logsArr
+module.exports = {getLogs};

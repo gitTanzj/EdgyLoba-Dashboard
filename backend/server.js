@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-const data = require('./logfile');
+const { getLogs } = require('./logfile');
 const express = require('express');
 const app = express();
 
@@ -11,8 +11,9 @@ app.use((req, res, next) => {
 })
 
 //data get request
-app.get('/api/logs',(req, res) => {
-    res.send(data)
+app.get('/api/logs',async (req, res) => {
+    // const logs = await getLogs(50); // For filtering add another argument to getLogs example: getLogs(50, { "meta.command": "me", "meta.responseTime": 1742 })
+    res.status(200);
 })
 
 //app start
