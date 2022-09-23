@@ -1,14 +1,9 @@
-import globe from '../assets/globe.gif'
-
 const Welcome = () => {
     return (
     <div className="welcome">
-        <div className="welcomeContent">
-            <h1>Welcome Muumi! &#128525;</h1>
-            <img src={globe} alt='globe'/>
-        </div>
+        <h1 className="m-0 p-25">Welcome Muumi! &#128525;</h1>
     </div>
     );
 }
- 
+
 export default Welcome;
